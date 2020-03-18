@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.johnfalsettomusic.com/contact/</loc>
+    <lastmod>2020-03-18T23:42:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.johnfalsettomusic.com/</loc>
+    <lastmod>2020-03-18T23:42:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.johnfalsettomusic.com/page/</loc>
+    <lastmod>2020-03-18T23:42:12+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.johnfalsettomusic.com/event/</loc>
     <lastmod>2019-09-04T17:28:14+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.johnfalsettomusic.com/event/jcole-miquel-denzelcurry-kdot-tylercreator/</loc>
-    <lastmod>2019-09-04T17:28:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.johnfalsettomusic.com/</loc>
     <lastmod>2019-09-04T17:28:14+02:00</lastmod>
   </url>
   
@@ -39,11 +49,6 @@
   
   <url>
     <loc>https://www.johnfalsettomusic.com/about/</loc>
-    <lastmod>2019-08-31T08:16:41+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.johnfalsettomusic.com/page/</loc>
     <lastmod>2019-08-31T08:16:41+02:00</lastmod>
   </url>
   
