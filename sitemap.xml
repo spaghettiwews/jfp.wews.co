@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.johnfalsettomusic.com/contact/</loc>
-    <lastmod>2020-03-18T23:42:12+02:00</lastmod>
+    <loc>https://www.johnfalsettomusic.com/music/chido-single/</loc>
+    <lastmod>2020-03-21T00:53:44+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.johnfalsettomusic.com/</loc>
+    <lastmod>2020-03-21T00:53:44+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.johnfalsettomusic.com/music/</loc>
+    <lastmod>2020-03-21T00:53:44+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.johnfalsettomusic.com/contact/</loc>
     <lastmod>2020-03-18T23:42:12+02:00</lastmod>
   </url>
   
@@ -40,11 +50,6 @@
   <url>
     <loc>https://www.johnfalsettomusic.com/about/</loc>
     <lastmod>2019-08-31T08:16:41+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.johnfalsettomusic.com/music/</loc>
-    <lastmod>2019-08-18T02:15:44+02:00</lastmod>
   </url>
   
   <url>
